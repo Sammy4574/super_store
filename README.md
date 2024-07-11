@@ -22,7 +22,7 @@ By analyzing various aspect of the sales data, we seek to identify trends, patte
 
 
 ### Data Sources
-The primary dataset use for this analysis is "superstore.csv" file, containing detailed information about each sales made by the store.
+The primary dataset use for this analysis is "super_store_dataset.xlsx" file, containing detailed information about each sales made by the store.
 
 ### Tools
 - Excel - Data Cleaning
@@ -62,4 +62,7 @@ As a sample dataset, not a real-world representation of a store's complete sales
 
 ### Refrences
 [Stack Overflow](stackoverflow.com)
+
+😄
+💻
 
