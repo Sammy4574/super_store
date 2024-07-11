@@ -44,7 +44,7 @@ EDA involed exploring the sales data to answer key questions, such as:
 ### Data Analysis
 Include some DAX functions:
 
-```Total_Sales = SUM(super_store[Sales])```
+```Total_Sales = SUM(super_store_dataset[Sales])```
 
 ### Insights
 - Technology is the best-performing category in terms of sales and revenue.
