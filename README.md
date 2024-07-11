@@ -16,6 +16,11 @@
 This data analysis project aims to provide insights into the sales performance from a retail superstore dataset over the past years.
 By analyzing various aspect of the sales data, we seek to identify trends, patterns, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
+![chart](https://github.com/Sammy4574/super_store/assets/108801834/1b577f8f-c363-4167-bb7a-731a983d1950)
+
+![piechart](https://github.com/Sammy4574/super_store/assets/108801834/da479542-4d12-403f-a574-f8ae4f8fc011)
+
+
 ### Data Sources
 The primary dataset use for this analysis is "superstore.csv" file, containing detailed information about each sales made by the store.
 
